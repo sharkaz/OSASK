@@ -1,0 +1,4 @@
+DB define byte        按顺序写入指定的字节内容
+DW define word        
+DD define double word
+RESB reserve word
